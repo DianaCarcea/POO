@@ -43,5 +43,5 @@ int main()
 	printf("Comparare dupa nota la mate: %d \n", Math_Compare(&s1, &s2));
 	printf("Comparare dupa nota la engleza: %d \n", English_Compare(&s1, &s2));
 	printf("Comparare dupa nota la istorie: %d \n", History_Compare(&s1, &s2));
-	printf("Comparare dupa medie: %d \n", Average_Compare(&s1, &s2));
+	printf("Comparare dupa medie: %d  \n", Average_Compare(&s1, &s2));
 }
